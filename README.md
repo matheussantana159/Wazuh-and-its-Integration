@@ -1,4 +1,4 @@
-<h1>Wazuh its Creation and Integration into Active Directory</h1>
+<h1>Wazuh its Creation and Integration with Active Directory</h1>
 General Purpose: After creating the AD and having some systems and accounts in it I wanted to add more features to further develop my IT, Cybersecurity, Management skill set. A SIEM is a nessary part of any infrastructure to monitor security events across all amachines in the environment. Wazuh was a natural choice since it is open-source, provides FIM and integrates well with Windows. 
 
 <h2> Prerequisites </h2>
